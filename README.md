@@ -82,4 +82,6 @@ Or copy either APK to the device and open it from a file manager (allow "Install
 
 ## License
 
-Private project. All rights reserved.
+Released under the [MIT License](LICENSE).
+
+This project is an unofficial wrapper and is not affiliated with or endorsed by University of the People.
